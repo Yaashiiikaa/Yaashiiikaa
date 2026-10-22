@@ -29,8 +29,6 @@ I'm a Computer Science and Engineering graduate passionate about software develo
 
 Java AI Hub is a project focused on making Java programming education more interactive and accessible through AI-assisted learning.
 
-The concept combines learning resources with practical coding activities to help learners understand Java fundamentals, practise problem-solving, and prepare for technical interviews.
-
 **Key Features**
 - Interactive Java learning resources.
 - Practice activities to strengthen problem-solving skills.
@@ -44,8 +42,6 @@ The concept combines learning resources with practical coding activities to help
 ### 2. DID-Powered Authentication
 
 DID-Powered Authentication explores decentralized identity (DID) as an approach to digital identity verification, with a focus on privacy, security, and user control.
-
-The project investigates how decentralized identity technologies and Zero-Knowledge Proofs can support authentication while reducing the need to expose unnecessary personal information.
 
 **Key Areas**
 - Decentralized Identity (DID).
