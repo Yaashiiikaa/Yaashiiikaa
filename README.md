@@ -33,7 +33,6 @@ The concept combines learning resources with practical coding activities to help
 
 **Key Features**
 - Interactive Java learning resources.
-- Coding quizzes and programming challenges.
 - Practice activities to strengthen problem-solving skills.
 - Interview preparation resources.
 - AI-assisted learning support.
@@ -65,12 +64,12 @@ The project investigates how decentralized identity technologies and Zero-Knowle
 - Building practical applications that address real-world problems.
 - Exploring AI integration into software applications.
 - Learning more about secure authentication and emerging technologies.
-- Developing projects that demonstrate both technical knowledge and practical implementation.
+
 
 ## Connect With Me
 
 - **GitHub:** [Yaashiiikaa](https://github.com/Yaashiiikaa)
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** [www.linkedin.com/in/yashika-r-467087275]
 
 ---
 
